@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Peter1459
+- 👋 Hi, I’m Peter
 - 👀 I’m interested in diversimying my knoledge
-- 🌱 I’m currently learning JavaScript, GML (game maker code), SQL
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning JavaScript, HTML and Python
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: ...
 
